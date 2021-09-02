@@ -1,3 +1,10 @@
+09/02/2021
+
+
+The project outlined below was provided by FreeCodeCamp's Data Analysis with Python Projects section, where it had tasked the students with defining a function that would take the input of a list, convert this into a NumPy array, perform calculations, return with a dictionary of lists, and confirm the input was valid. This Repository will contain the original files from the FreeCodeCamp repository, along with the code that I had worked on, shown in the file mean_var_std.py.
+
+
+
 ### Assignment
 
 Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. 
@@ -43,3 +50,5 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
+
+https://replit.com/@TashaGill/boilerplate-mean-variance-standard-deviation-calculator#mean_var_std.py
